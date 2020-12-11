@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deploy <code>React App</code> To Zeet Server
+          Welcome To Zeet Server
         </p>
         <a
           className="App-link"
